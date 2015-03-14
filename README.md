@@ -1,2 +1,6 @@
 # first
 first piece of code on this station
+checking out how this works...
+look fine
+	identation not bad either....
+	
